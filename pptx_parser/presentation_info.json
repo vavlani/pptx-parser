@@ -1,0 +1,43 @@
+{
+    "file_name": "samplepptx.pptx",
+    "file_format": ".pptx",
+    "file_size": null,
+    "file_path": "/Users/vivekavlani/code/pptx_parser/source_pptx/samplepptx.pptx",
+    "creation_date": "Tue Sep 24 23:21:35 2024",
+    "last_modified_date": "Tue Sep 24 23:21:25 2024",
+    "number_of_slides": 2,
+    "title": "Sample PowerPoint File",
+    "subject": "",
+    "author": "James Falkofske",
+    "last_modified_by": "James Falkofske",
+    "description": "",
+    "keywords": "",
+    "created": "2009-05-06T22:06:09",
+    "modified": "2009-05-06T22:13:30",
+    "last_printed": null,
+    "language": "",
+    "presentation_hash": "4a228ef8ac1a6db8b690534dcc0501b95e849b2694b8504d07e56099640753ee",
+    "presentation_file_name": "samplepptx.pptx",
+    "slides": [
+        {
+            "slide_number": 1,
+            "text_content": "Sample PowerPoint File\nSt. Cloud Technical College",
+            "image_path": "slide_images/slide_1.png",
+            "generated_description": {
+                "response_text": "The slide is a simple PowerPoint template with a blurry photo of a city skyline as the background. The title of the slide is \"Sample PowerPoint File\" in bold white letters and \"St. Cloud Technical College\" in bold white letters below. The bottom of the slide has a blue bar with \"CENTRAL BUSINESS DISTRICT CENTRAL BUSINESS DISTRICT CENTRAL\" in small grey letters at the bottom.",
+                "error_flag": false,
+                "error_message": ""
+            }
+        },
+        {
+            "slide_number": 2,
+            "text_content": "This is a Sample Slide\nHere is an outline of bulleted points\nYou can print out PPT files as handouts using the \u000bPRINT > \u000b  PRINT WHAT > HANDOUTS option",
+            "image_path": "slide_images/slide_2.png",
+            "generated_description": {
+                "response_text": "This is a sample slide that gives instructions on how to print out PowerPoint files as handouts. The instructions say to click on the Print option and then click on Print What > Handouts option.",
+                "error_flag": false,
+                "error_message": ""
+            }
+        }
+    ]
+}
